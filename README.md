@@ -6,17 +6,17 @@
 ⚙️ Passionate about designing clean, maintainable, and production-ready systems
 📚 Continuously improving skills through personal projects, research, and hands-on development
 🌍 Based in Ethiopia and interested in creating technology that solves local and global challenges
-#📌 Current Focus
+# 📌 Current Focus
 Building advanced ERP modules (HR , Inventory , Finance )
 Developing scalable Healthcare EMR SaaS
 Improving software architecture and system performance
-#📈 What I Value
+# 📈 What I Value
 Clean and readable code
 Real business impact
 Continuous learning
 Scalable solutions
 Professional development practices
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 Backend
 ASP.NET Core
 Express.js
@@ -25,19 +25,19 @@ REST API Development
 Clean Architecture
 Multi-Tenant SaaS Systems
 
-Database
+# Database
 PostgreSQL
 SQL Server
 Query Optimization
 
-Frontend
+# Frontend
 JavaScript
 TypeScript
 React
 Next.js
 tailwindCSS
 
-Tools & Practices
+# Tools & Practices
 Git & GitHub
 Visual Studio
 Postman
