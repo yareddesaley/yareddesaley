@@ -1,6 +1,6 @@
 ## 👋 Hi There, I'm **Yared Desaley**
 
-🚀 **Software Developer from Ethiopia** passionate about building scalable business systems, healthcare platforms, and modern web applications.  
+🚀 **Software Developer from Ethiopia** passionate about building scalable ERP systems, healthcare platforms, and modern web applications.  
 💡 I enjoy solving real-world problems through clean architecture, efficient backend development, and practical product design.
 
 ---
@@ -8,7 +8,9 @@
 # 🚀 About Me
 
 ### 💻 Backend Developer
-Strong experience in **ASP.NET Core**, **Express.js**, and **PostgreSQL**
+Strong experience in **ASP.NET Core Web API**, **Express.js**, and **PostgreSQL**
+### 💻 Frontend Developer
+Strong experience in **Next.js**, **React.js**, **Shadcn** , **Framer Motion** and **TailwindCSS**
 
 ### 🏗️ System Builder
 Interested in creating **ERP Systems**, **SaaS Platforms**, and **Multi-Tenant Architectures**
@@ -29,21 +31,19 @@ Based in **Ethiopia**, building technology that solves local and global challeng
 ### 🏢 Building Advanced ERP Modules
 HR • Inventory • Finance
 
-### 🏥 Developing Scalable Healthcare EMR SaaS
+#### 🏥 Developing Scalable Healthcare EMR SaaS
 
-### ⚡ Improving Software Architecture & Performance
+#### ⚡ Improving Software Architecture & Performance
 
-### ☁️ Exploring Cloud-Ready Solutions
 
----
 
 # 📈 What I Value
 
-### ✨ Clean & Readable Code  
-### 🎯 Real Business Impact  
-### 📚 Continuous Learning  
-### 📦 Scalable Solutions  
-### 🤝 Professional Development Practices  
+#### ✨ Clean & Readable Code  
+#### 🎯 Real Business Impact  
+#### 📚 Continuous Learning  
+#### 📦 Scalable Solutions  
+#### 🤝 Professional Development Practices  
 
 ---
 
@@ -52,7 +52,8 @@ HR • Inventory • Finance
 ## 💻 Backend
 - ⚙️ ASP.NET Core  
 - 🚀 Express.js  
-- 🧩 Entity Framework Core  
+- 🧩 Entity Framework Core
+- 🧩 Prisma ORM 
 - 🌐 REST API Development  
 - 🏛️ Clean Architecture  
 - 🏢 Multi-Tenant SaaS Systems  
