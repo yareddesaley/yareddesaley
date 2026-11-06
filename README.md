@@ -1,7 +1,8 @@
 ## 👋 Hi There, I'm **Yared Desaley**
 
-🚀 **Software Developer from Ethiopia** passionate about building scalable ERP systems, healthcare platforms, and modern web applications.  
-💡 I enjoy solving real-world problems through clean architecture, efficient backend development, and practical product design.
+🚀 **Software Developer from Ethiopia** Experianced in developing scalable ERP systems (HR, Finance, Inventory, Payroll, Project Management, Time-Sheet management), healthcare platforms, and modern web applications.  
+💡 I enjoy solving real-world problems through efficient backend development, proffessional user interfaces and practical product design.
+💡 I am experiance in clean architecture and monolithic design patterns, domain driven design (DDD), CQRS and mediator.
 
 ---
 
@@ -10,10 +11,10 @@
 ### 💻 Backend Developer
 Strong experience in **ASP.NET Core Web API**, **Express.js**, and **PostgreSQL**
 ### 💻 Frontend Developer
-Strong experience in **Next.js**, **React.js**, **Shadcn** , **Framer Motion** and **TailwindCSS**
+Strong experience in **Next.js**, **React.js**, **Shadcn**, **RTK Query** , **Framer Motion** and **TailwindCSS**
 
 ### 🏗️ System Builder
-Interested in creating **ERP Systems**, **SaaS Platforms**, and **Multi-Tenant Architectures**
+Interested in creating **Saas ERP Systems**, **SaaS Platforms**, and **Multi-Tenant Architectures**
 
 ### ⚙️ Clean Code Enthusiast
 Passionate about designing **maintainable**, **scalable**, and **production-ready** systems
@@ -29,7 +30,6 @@ Based in **Ethiopia**, building technology that solves local and global challeng
 # 📌 Current Focus
 
 ### 🏢 Building Advanced ERP Modules
-HR • Inventory • Finance
 
 #### 🏥 Developing Scalable Healthcare EMR SaaS
 
