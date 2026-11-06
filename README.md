@@ -1,7 +1,7 @@
 ## 👋 Hi There, I'm **Yared Desaley**
 
 🚀 **Software Developer from Ethiopia** Experianced in developing scalable ERP systems (HR, Finance, Inventory, Payroll, Project Management, Time-Sheet management), healthcare platforms, and modern web applications.  
-💡 I enjoy solving real-world problems through efficient backend development, proffessional user interfaces and practical product design.
+💡 I enjoy solving real-world problems through efficient backend development, proffessional user interfaces and practical product design.                           
 💡 I am experiance in clean architecture and monolithic design patterns, domain driven design (DDD), CQRS and mediator.
 
 ---
